@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="601293d4-7c06-48fe-be9b-dd8c4a800cdf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BookingList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookingList.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>google</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="831" />
+  </component>
+  <component name="ProjectId" id="1YrDeSzbm6dUjZaCVGF4zwjLXal" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="601293d4-7c06-48fe-be9b-dd8c4a800cdf" name="Default Changelist" comment="" />
+      <created>1582329784816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582329784816</updated>
+      <workItem from="1582329789278" duration="95000" />
+      <workItem from="1582329943121" duration="580000" />
+      <workItem from="1582331877982" duration="1682000" />
+      <workItem from="1582350004780" duration="51000" />
+      <workItem from="1582350105122" duration="33000" />
+      <workItem from="1582350146231" duration="140000" />
+      <workItem from="1582350299917" duration="392000" />
+      <workItem from="1582350696977" duration="48000" />
+      <workItem from="1582350757997" duration="4000" />
+      <workItem from="1582350784320" duration="8000" />
+      <workItem from="1582350804562" duration="17000" />
+      <workItem from="1582350834981" duration="15000" />
+      <workItem from="1582350867548" duration="9005000" />
+      <workItem from="1582396339103" duration="1751000" />
+      <workItem from="1582398215967" duration="448000" />
+      <workItem from="1582398819429" duration="15000" />
+      <workItem from="1582398837330" duration="6633000" />
+      <workItem from="1582413810800" duration="9409000" />
+      <workItem from="1582483882821" duration="822000" />
+      <workItem from="1583518081586" duration="210000" />
+      <workItem from="1583518616061" duration="13000" />
+      <workItem from="1583518840352" duration="3259000" />
+      <workItem from="1583522548572" duration="2860000" />
+      <workItem from="1583529478339" duration="1017000" />
+      <workItem from="1583691601662" duration="216000" />
+      <workItem from="1583691926674" duration="6142000" />
+      <workItem from="1583698475896" duration="1590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1583691925786">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1583691925786" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/MapContainer.js</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/NavBar.js</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_191</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
